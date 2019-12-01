@@ -1,0 +1,29 @@
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Core . main()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainLaunching thread: 0
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainThread created: Thread-1
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainLaunching thread: 1
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Thread-1 . run()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainThread created: Thread-2
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainLaunching thread: 2
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Thread-2 . run()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainThread created: Thread-3
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainLaunching thread: 3
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Thread-3 . run()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainThread created: Thread-4
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainLaunching thread: 4
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Thread-4 . run()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainThread created: Thread-5
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainFive Threads created.
+[FINER] - Tue Aug 27 17:37:19 CST 2019 Thread-5 . run()ENTRY
+[INFO] - Tue Aug 27 17:37:19 CST 2019 day09.code_5.Main . mainWaiting for its finalization
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Thread-4 . run()RETURN {0}
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Thread-1 . run()RETURN {0}
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Thread-2 . run()RETURN {0}
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Thread-3 . run()RETURN {0}
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Thread-5 . run()RETURN {0}
+[INFO] - Tue Aug 27 17:37:21 CST 2019 day09.code_5.Main . mainThread has finished its execution
+[INFO] - Tue Aug 27 17:37:21 CST 2019 day09.code_5.Main . mainThread has finished its execution
+[INFO] - Tue Aug 27 17:37:21 CST 2019 day09.code_5.Main . mainThread has finished its execution
+[INFO] - Tue Aug 27 17:37:21 CST 2019 day09.code_5.Main . mainThread has finished its execution
+[INFO] - Tue Aug 27 17:37:21 CST 2019 day09.code_5.Main . mainThread has finished its execution
+[FINER] - Tue Aug 27 17:37:21 CST 2019 Core . main()RETURN
